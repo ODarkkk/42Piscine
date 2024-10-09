@@ -23,9 +23,9 @@ int	t_strlen(char *str)
 	}
 	return (i);
 }
-int main(void)
-{
-	char str[] = "Hello, World!";
-	printf("%d\n", t_strlen(str));
-	return (0);
-}
+//int main(void)
+//{
+//	char str[] = "Hello, World!";
+//	printf("%d\n", t_strlen(str));
+//	return (0);
+//}
