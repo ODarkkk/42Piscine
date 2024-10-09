@@ -14,7 +14,7 @@
 
 int	t_strlen(char *str)
 {
-	unsigned	int	i;
+	int	i;
 
 	i = 0;
 	while (str[i] != '\0')
